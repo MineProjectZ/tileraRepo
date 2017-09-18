@@ -1,0 +1,33 @@
+<strings>
+  <!-- Settings -->
+  <string id="32001">Steam</string>
+  <string id="32011">Steam Public URL Name (ex. "username")</string>
+  <string id="32012">Steam Binary</string>
+  <string id="32002">Artwork</string>
+  <string id="32111">Show Background Fanart</string>
+  <string id="32112">Logo Size</string>
+  <string id="32113">Wide (Banner)</string>     <!-- for Logo Size -->
+  <string id="32114">Tall (Icon)</string>       <!-- ... -->
+  <string id="32115">Refresh Fanart Cache</string>
+  <string id="32116">Add Transparent Border</string>
+  <!-- Progress dialog for fetching games list -->
+  <string id="33011">Building games list...</string>
+  <string id="33012">Connecting to SteamCommunity.com</string>
+  <string id="33013">Decoding games XML</string>
+  <string id="33014">Checking: %s</string>
+  <string id="33015">Checking connectivity to SteamCommunity.com</string>
+  <string id="33016">Finished</string>
+  <string id="33017">Refreshing artwork cache...</string>
+  <string id="33018">Starting game</string>
+  <string id="33019">Ready to launch...</string>
+  <!-- Steam binary missing or not specified -->
+  <string id="33021">Cannot find Steam binary</string>
+  <string id="33022">The addon cannot locate the Steam binary at '%s'. Please check the location again.</string>
+  <string id="33023">You must enter the path to the Steam binary.</string>
+  <!-- Can't connect to SteamCommunity.com error (error string not translated) -->
+  <string id="33031">Cannot connect to SteamCommunity.com</string>
+  <string id="33032">Error reported: %s.</string>
+  <!-- Can't find profile error -->
+  <string id="33041">Cannot find your profile on SteamCommunity.com</string>
+  <string id="33042">Please check the Public URL in Steam is set correctly. Error reported: %s.</string>
+</strings>
