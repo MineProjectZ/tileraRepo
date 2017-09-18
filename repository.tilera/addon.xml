@@ -2,17 +2,17 @@
 <addon id="repository.tilera" name="tileraRepo" version="0.0.1" provider-name="tilera">
 	<extension point="xbmc.addon.repository" name="tileraRepo">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/MineProjectZ/repository.tilera/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/MineProjectZ/repository.tilera/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/MineProjectZ/repository.tilera/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/MineProjectZ/tileraRepo/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">tileras addon Repository</summary>
 		<description lang="en">tileras addon Repository</description>
-		<genre>gaming,movies,music,tvshows,german,usa</genre>
+		<genre>german,usa</genre>
 	</extension>
 </addon>
